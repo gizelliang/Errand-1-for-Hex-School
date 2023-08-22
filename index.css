@@ -88,3 +88,33 @@ img {
   .text-right{
     text-align: right;
   }
+
+  .text-m {
+    font-size: 32px;
+  }
+
+
+  .bg-gray{
+    background-color: #efefef;
+    margin-bottom: 80px;
+  }
+
+  .ml-auto{
+    margin-left: auto;
+  }
+
+  .py-48{
+    padding-top:48px;
+    padding-bottom: 48px;
+  }
+
+  .w-50{
+    width:50%;
+  }
+
+  .title {
+    font-size: 40px;
+    color: #ae0000;
+    border-bottom: 1px solid #ae0000;
+  }
+
