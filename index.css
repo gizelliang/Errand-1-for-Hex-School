@@ -118,3 +118,60 @@ img {
     border-bottom: 1px solid #ae0000;
   }
 
+  .mb-16{
+    margin-bottom: 16px;
+  }
+  .mb-12{
+    margin-bottom: 12px;
+  }
+  .mb-8{
+    margin-bottom: 8px;
+  }
+
+  .mb-40{
+    margin-bottom: 40px;
+  }
+
+  .mb-160{
+    margin-bottom: 160px;
+  }
+
+  .mr-40{
+    margin-right: 40px;
+  }
+
+  a:link {
+    text-decoration: none;
+    color:black;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    opacity:0.8;
+    color:#efefef;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.year {
+    font-size: 20px;
+    color: #949494;
+    font-style: italic;
+  }
+  footer {
+    background-color: #000000;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    text-align: center;
+    
+  }
+
+  .footer-item{
+    display:inline-block;
+  }
